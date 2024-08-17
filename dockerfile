@@ -1,3 +1,4 @@
 COPY
 CMD
 ENTRYPOINT
+pknewentry
